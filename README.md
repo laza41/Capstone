@@ -37,3 +37,4 @@ Firstly, a base strategy class(BaseStrategy.py) was implemented to give generic 
  
  Secondly, a strategy class(SuperTrendStrategy.py) was derived from BaseStrategy. It includes buy and signal logic based on Supertrend indicator and Hurst Exponent.
  
+The final Research paper can be found and downloaded from SSRN under the following link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4290787 .
